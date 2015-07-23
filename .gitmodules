@@ -39,7 +39,7 @@
 	url = git@github.com:OpenEmu/TwoMbit-Core.git
 [submodule "UME"]
 	path = UME
-	url = git@github.com:OpenEmu/UME-Core.git
+	url = https://Lord-Kamina@github.com/Lord-Kamina/UME-Core.git
 [submodule "picodrive"]
 	path = picodrive
 	url = git@github.com:OpenEmu/picodrive.git
